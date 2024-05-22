@@ -1,0 +1,10 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/zacharyweiss/actions-test.git
+    commit_sha: 9b85752ef0c73465a1e6024e683687dc7844d675
+short_description: Test application
+description: "foo"
+changelog: "bar"
+screenshots:
+  - screenshots/ss0.png
